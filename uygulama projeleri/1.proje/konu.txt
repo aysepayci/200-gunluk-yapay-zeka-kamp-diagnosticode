@@ -1,0 +1,11 @@
+2. Gerçek Zamanlı El Hareketi Tanıma
+OpenCV ile el hareketlerini takip edin ve belirli hareketleri sınıflandırın.
+NumPy ile maskeleme ve filtreleme işlemleri gerçekleştirin.
+Seaborn kullanarak farklı el hareketlerinin frekanslarını analiz edin.
+
+Projeyi yaparken takip edilecek adımlar:
+ OpenCV kullanarak kameradan görüntü alın.
+ Renk tabanlı eşikleme (thresholding) ile eli belirleyin.
+ NumPy ile maskeleme ve filtreleme işlemleri yaparak elin net tespitini sağlayın.
+ Belirli hareketleri sınıflandırmak için hareket vektörlerini analiz edin.
+ Seaborn kullanarak hareketlerin frekans analizini yapın.
